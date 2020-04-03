@@ -6,7 +6,7 @@ This is a simple REST service providing the `github repos` that were created in 
 
 #### N.B :
 
-Due to hte purpose of this project, nothing has been deployed, which means that the repo needs to be run locally in order to check its functionality
+Due to hte purpose of this project, nothing has been deployed, which means that the repo needs to be run locally in order to check its functionality, and no tests were written due to its size and requirements.
 
 ### Documentation
 
