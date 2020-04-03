@@ -20,7 +20,14 @@ Due to hte purpose of this project, nothing has been deployed, which means that 
 
 ### Scripts
 
-After changing the directory into the repo's, you can run the following commands
+After changing the directory into the repo's, and creating an `.env` file in the route containing the following:
+
+```env
+NODE_ENV=development
+PORT=5000
+```
+
+you can run the following commands:
 
 ```bash
   npm install
