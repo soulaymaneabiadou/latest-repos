@@ -1,0 +1,21 @@
+{
+  "name": "languagesrepos_api",
+  "version": "1.0.0",
+  "description": "A RESTful API microservice that shows the languages used by the latest 100 repos on github and themselves",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Soulaymane Abiadou",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.2"
+  }
+}
